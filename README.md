@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abduraxmon Kamilov</h1>
 <h3 align="center">I am a passionate, honest and self-motivated Frontend developer from Uzbekistan. I am an excellent team worker who can listen effectively to solve problems and am always willing to learn new skills. My greatest passion is in life is using my technical know-how to benefit other people and organizations.</h3>
-<img align="right" alt="Coding" src="<iframe src="https://assets.pinterest.com/ext/embed.html?id=4925880832717068" height="359" width="345" frameborder="0" scrolling="no" ></iframe>">
+<img align="right" alt="Coding" height="359" width="345"   frameborder="0" scrolling="no" src="https://assets.pinterest.com/ext/embed.html?id=4925880832717068">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-kamilov&label=Profile%20views&color=0e75b6&style=flat" alt="a-kamilov" /> </p>
