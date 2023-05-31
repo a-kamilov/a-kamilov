@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://instagram.com/kamilo_ff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamilo_ff" height="30" width="40" /></a>
 <a href="https://t.me/kamilo_vv" target="blank"><img align="center" 
-src="https://github.com/a-kamilov/a-kamilov/assets/121342388/6785bf88-f526-458d-a5ea-702d49f202ff" alt="kamilo_vv" height="30"/></a>
+src="ttps://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="kamilo_vv" height="30"/></a>
 </p>
 
 
